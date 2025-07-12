@@ -1,0 +1,27 @@
+# Arduino build files
+*.elf
+*.bin
+*.hex
+
+# Backup & temp files
+*~
+*.bak
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# VS Code config (if using)
+.vscode/
+
+# Arduino sketch folder files
+*.d
+*.o
+
+# Mac resource fork files
+._*

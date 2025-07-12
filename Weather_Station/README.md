@@ -1,5 +1,8 @@
 # Weather Station using Arduino
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 This project uses **DHT11** and **BMP180** sensors to measure:
 - 🌡️ Temperature
 - 💧 Humidity
